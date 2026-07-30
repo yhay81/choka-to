@@ -1,0 +1,16 @@
+{
+  "name": "釣果灯",
+  "short_name": "釣果灯",
+  "description": "釣り場を送信せず、釣行と釣果を端末内だけで残す水辺の記録盤",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e9e3d5",
+  "theme_color": "#0b3441",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
